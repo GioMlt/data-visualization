@@ -1,5 +1,8 @@
 # Data Visualization
 
+![My Image](/images/image-pandas.png)
+![Alt Text](image-pandas.png)
+
 ## HEADER 1
 
 1. **KJG**
