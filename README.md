@@ -10,12 +10,18 @@
 3. FEIEFIJ
 4. JFKFJ
 
+![My Image1](/images/dog.jpg)
+![Alt Text](dog.jpg)
+
 ### HEADER 2
 
 * DKK
 * PL
 * KJFJF
 * OJH
+
+![My Image2](/images/crop.jpg)
+![Alt Text](crop.jpg)
 
 #### HEADER 3
 K3OFJJ3FOJ
